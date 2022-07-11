@@ -1,5 +1,6 @@
-### Hi there 👋
+ ![header](https://github.com/lesley-byte/lesley-byte/blob/76c2ed6da8c26f43176baf6b0f1c60823410474b/assets/github-header-image.png)
 
+### Hi there 👋
 
 I'm Lesley-Byte
 
