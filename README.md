@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-#  I'm Lesley-Byte
+#  I'm lesley-byte
 
 - I have one black cat.
 - I am interested in electronics, knitting, programming, and Science fiction novels.
