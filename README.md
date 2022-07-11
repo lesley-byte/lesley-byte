@@ -2,9 +2,8 @@
 
 ### Hi there 👋
 
-I'm Lesley-Byte
+#  I'm Lesley-Byte
 
-# PERSONAL CONTENT
 - I have one black cat.
 - I am interested in electronics, knitting, programming, and Science fiction novels.
 - I can knit without looking at my hands.
