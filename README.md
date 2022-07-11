@@ -4,12 +4,12 @@
 I'm Lesley-Byte
 
 # PERSONAL CONTENT
-I have one black cat.
-I am interested in electronics, knitting, programming, and Science fiction novels.
-I can knit without looking at my hands.
-I want to become an expert in python programming.
-I strive to leave the world a better place than I found it.
-I've lived in the USA my whole life.
+- I have one black cat.
+- I am interested in electronics, knitting, programming, and Science fiction novels.
+- I can knit without looking at my hands.
+- I want to become an expert in python programming.
+- I strive to leave the world a better place than I found it.
+- I've lived in the USA my whole life.
 <!--
 **lesley-byte/lesley-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
