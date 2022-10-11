@@ -4,12 +4,15 @@
 
 #  I'm lesley-byte
 
-- I have one black cat.
-- I am interested in electronics, knitting, programming, and Science fiction novels.
-- I can knit without looking at my hands.
-- I want to become an expert in python programming.
-- I strive to leave the world a better place than I found it.
-- I've lived in the USA my whole life.
+- 😻🐈I have one black cat.
+- 🎈🧶🎮I am interested in electronics, knitting, programming, and Science fiction novels.
+- ⚡I can knit without looking at my hands.
+- 💻I want to become an expert in python programming.
+- ✨I strive to leave the world a better place than I found it.
+- 🐱‍🚀I've lived in the USA my whole life.
+- 🔭I'm currently attending a full stack coding bootcamp and love it!
+- 🌱I'm currently learning HTML, CSS, JavaScript...etc.
+- 😄Pronouns: I respond to all the pronouns. Sort of agnostic about that.  Maybe She/her
 <!--
 **lesley-byte/lesley-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
