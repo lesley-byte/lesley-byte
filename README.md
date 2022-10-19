@@ -4,6 +4,10 @@
 
 #  I'm lesley-byte
 
+## My Portfolio:
+
+[Link to Portfolio](https://github.com/lesley-byte/lesley-byte-portfolio)
+
 - 😻🐈I have one black cat.
 - 🎈🧶🎮I am interested in electronics, knitting, programming, and Science fiction novels.
 - ⚡I can knit without looking at my hands.
