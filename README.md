@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesley-byte&layout=compact&theme=radical&bg_color=00000000)](https://github.com/lesley-byte/github-readme-stats)
 
-[![lesley-byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesley-byte&theme=radical&bg_color=00000000&show_icons=true&include_all_commits=true)](https://github.com/lesley-byte&theme=radical&bg_color=00000000/github-readme-stats)
+[![lesley-byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesley-byte&theme=radical&bg_color=00000000&show_icons=true)](https://github.com/lesley-byte&theme=radical&bg_color=00000000/github-readme-stats)
 
 - 😻🐈I have one black cat.
 - 🎈🧶🎮I am interested in electronics, knitting, programming, and Science fiction novels.
