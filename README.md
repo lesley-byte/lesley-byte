@@ -6,7 +6,7 @@
 
 ## My Portfolio:
 
-[Link to Portfolio](https://lesley-byte.github.io/lesley-byte-portfolio/)
+[Link to Portfolio](lesley-byte.github.io/react-portfolio/)
 
 ## Fun facts about me:
 
