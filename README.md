@@ -20,8 +20,8 @@
 - 💻I want to become an expert in python programming.
 - ✨I strive to leave the world a better place than I found it.
 - 🐱‍🚀I've lived in the USA my whole life.
-- 🔭I'm currently attending a full stack coding bootcamp and love it!
-- 🌱I'm currently learning HTML, CSS, JavaScript...etc.
+- 🔭I'm currently at TA 2U and help instruct on Full Stack Web Development
+- 🌱I'm currently learning C#, the Unity Game engine, and basic game development.
 - 😄Pronouns: I respond to all the pronouns. Sort of agnostic about that.  Maybe She/her
 <!--
 **lesley-byte/lesley-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
